@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🛠️ Tech Stacks
+#### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/html5-E34F26?style=flex&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flex&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flex&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flex&logo=react&logoColor=white">
+
+#### 🌎
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flexe&logo=tailwindcss&logoColor=white">
